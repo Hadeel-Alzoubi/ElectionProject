@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|c:\\users\\orange\\desktop\\election\\jovoice_mvc_project5\\jovoice\\jovoice\\views\\tempadshadeel\\create1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|solutionrelative:jovoice\\views\\tempadshadeel\\create1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\jovoice\\controllers\\tempadshadeelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|solutionrelative:jovoice\\controllers\\tempadshadeelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\jovoice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|solutionrelative:jovoice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\jovoice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|solutionrelative:jovoice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\jovoice\\views\\tempcandidatelocals\\create_gh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|solutionrelative:jovoice\\views\\tempcandidatelocals\\create_gh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\jovoice\\views\\shared\\_layoutpageusernotlogged.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|solutionrelative:jovoice\\views\\shared\\_layoutpageusernotlogged.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\jovoice\\views\\home\\setnewpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|solutionrelative:jovoice\\views\\home\\setnewpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\jovoice\\views\\home\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|solutionrelative:jovoice\\views\\home\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\jovoice\\controllers\\tempcandidatelocalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D09A09-FEBF-4829-ABD2-70DC5864F134}|JOVOICE\\JOVOICE.csproj|solutionrelative:jovoice\\controllers\\tempcandidatelocalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TempAdsHadeelController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Controllers\\TempAdsHadeelController.cs",
+              "RelativeDocumentMoniker": "JOVOICE\\Controllers\\TempAdsHadeelController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Controllers\\TempAdsHadeelController.cs",
+              "RelativeToolTip": "JOVOICE\\Controllers\\TempAdsHadeelController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwFIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:13:36.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JOVOICE\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JOVOICE\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADQBAAAAAAAAAAAuwEYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:15:53.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Views\\TempAdsHadeel\\Create1.cshtml",
+              "RelativeDocumentMoniker": "JOVOICE\\Views\\TempAdsHadeel\\Create1.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Views\\TempAdsHadeel\\Create1.cshtml",
+              "RelativeToolTip": "JOVOICE\\Views\\TempAdsHadeel\\Create1.cshtml",
+              "ViewState": "AQIAALMAAAAAAAAAAAAqwMAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T06:20:07.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SetNewPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Views\\Home\\SetNewPassword.cshtml",
+              "RelativeDocumentMoniker": "JOVOICE\\Views\\Home\\SetNewPassword.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Views\\Home\\SetNewPassword.cshtml",
+              "RelativeToolTip": "JOVOICE\\Views\\Home\\SetNewPassword.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T19:37:01.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Views\\Home\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "JOVOICE\\Views\\Home\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Views\\Home\\ResetPassword.cshtml",
+              "RelativeToolTip": "JOVOICE\\Views\\Home\\ResetPassword.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T19:35:25.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutPageUserNotlogged.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Views\\Shared\\_LayoutPageUserNotlogged.cshtml",
+              "RelativeDocumentMoniker": "JOVOICE\\Views\\Shared\\_LayoutPageUserNotlogged.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Views\\Shared\\_LayoutPageUserNotlogged.cshtml",
+              "RelativeToolTip": "JOVOICE\\Views\\Shared\\_LayoutPageUserNotlogged.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T19:35:02.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TempCandidateLocalsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Controllers\\TempCandidateLocalsController.cs",
+              "RelativeDocumentMoniker": "JOVOICE\\Controllers\\TempCandidateLocalsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Controllers\\TempCandidateLocalsController.cs",
+              "RelativeToolTip": "JOVOICE\\Controllers\\TempCandidateLocalsController.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAwBIBAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:26:48.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create_gh.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Views\\TempCandidateLocals\\Create_gh.cshtml",
+              "RelativeDocumentMoniker": "JOVOICE\\Views\\TempCandidateLocals\\Create_gh.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Views\\TempCandidateLocals\\Create_gh.cshtml",
+              "RelativeToolTip": "JOVOICE\\Views\\TempCandidateLocals\\Create_gh.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T18:25:21.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JOVOICE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Election\\JOVOICE_MVC_PROJECT5\\JOVOICE\\JOVOICE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JOVOICE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAMwCAAAAAAAAAAAiwNwCAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T14:02:59.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
